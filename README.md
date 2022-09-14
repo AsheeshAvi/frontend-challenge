@@ -2,7 +2,7 @@
 
 ## Email ID : paswanasheesh@gmail.com (Asheesh Paswan) 
 
-This project can on live vercel with [Search Pokémon](https://frontend-challenge-asheeshpaswan.vercel.app/).
+See project live on vercel [Search Pokémon](https://frontend-challenge-asheeshpaswan.vercel.app/).
 
 ## Available Scripts
 

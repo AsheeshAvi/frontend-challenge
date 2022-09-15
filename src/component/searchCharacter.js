@@ -19,7 +19,6 @@ const SearchCharacterPokeman = () => {
         const serachData = await getSearchCharacter(seachValue);
         if(serachData?.id){
           setLoadingSearch(false);
-          console.log("serachDataserachData",serachData);
           setCharacterDetail(serachData);  
         }else{
           setLoadingSearch(false);
